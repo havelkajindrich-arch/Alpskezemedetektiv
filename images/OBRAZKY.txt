@@ -1,0 +1,30 @@
+OBRÁZKY PRO THE SNOW THIEF
+
+Do této složky vlož vlastní fotografie s přesně těmito názvy. Použij skutečný formát JPEG, malá písmena a pomlčky. Přejmenování PNG na .jpg nestačí. Fotky jsou volitelné; bez nich hra zobrazí označenou ilustraci, která nepředstírá fotografii místa.
+
+Doporučení: vodorovné fotky, poměr 16:10, přibližně 1600 × 1000 px, do 500 kB; pozadí přibližně 2000 × 1300 px. Obrázky se oříznou na střed. Použij vlastní nebo licenčně vhodné snímky.
+
+grossglockner.jpg — Grossglockner crime scene
+neusiedler-see.jpg — Lake Neusiedl postcard
+vorder-grauspitz.jpg — Vorder Grauspitz crime scene
+rhine-vaduz.jpg — The Rhine border postcard
+matterhorn.jpg — Matterhorn crime scene
+lake-geneva.jpg — Lake Geneva postcard
+red-bull.jpg — Red Bull — Fuschl am See
+swarovski.jpg — Swarovski — Wattens
+innsbruck.jpg — Nordkette — Innsbruck
+un-vienna.jpg — Vienna International Centre — Vienna
+glock.jpg — GLOCK — Deutsch-Wagram
+hilti.jpg — Hilti — Schaan
+ivoclar.jpg — Ivoclar — Schaan
+vaduz.jpg — Vaduz Castle — Vaduz
+rolex.jpg — Rolex — Plan-les-Ouates, Geneva
+nestle.jpg — Nestlé / Cailler — Broc
+lindt.jpg — Lindt & Sprüngli — Kilchberg
+cern.jpg — CERN — Meyrin, Geneva
+toblerone.jpg — Toblerone — Bern-Brünnen
+logitech.jpg — Logitech — Lausanne
+background.jpg — Volitelné široké zasněžené pozadí
+teacher.jpg — Tvoje fotografie pro závěrečné odhalení
+
+Žádná fotografie se neposílá do externí služby. Při vložení na veřejný GitHub však budou nahrané soubory veřejně dostupné.
